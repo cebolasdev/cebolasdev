@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cebolasdev
+- 👀 I’m interested in LUA, FIVEM, C++
+- 🌱 I’m currently learning LUA and C++
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: Discord (@cebolas.dev)
